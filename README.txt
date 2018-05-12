@@ -2,6 +2,8 @@
 Projects
 Project 1 Implementing Chord
 
+https://en.wikipedia.org/wiki/Chord_(peer-to-peer)
+
 Authors: Nick Allgood, Mariama Adangwa, and  Mohit Khatwani
 
 TABLE OF CONTENTS
